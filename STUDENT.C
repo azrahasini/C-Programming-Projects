@@ -27,7 +27,7 @@ scanf("%s",s[i].City);
 printf("Enter the student dream:");
 scanf("%s",s[i].Dream);
 }
-printf("\n=====10 student details=====\n");
+printf("\n===== 10 Student Details =====\n");
 for(i=0;i<10;i++)
 {
 printf("\nStudent:%d\n",i+1);
