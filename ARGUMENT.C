@@ -34,10 +34,10 @@ Average=Total/5.0;
 printf("\n=====STUDENT REPORT=====\n");
 printf("Student Name:%s\n",Name);
 printf("Mark 1:%d\n",M1);
-printf("Mark 2%d\n",M2);
-printf("Mark 3%d\n",M3);
-printf("Mark 4%d\n",M4);
-printf("Mark 5%d\n",M5);
+printf("Mark 2:%d\n",M2);
+printf("Mark 3:%d\n",M3);
+printf("Mark 4:%d\n",M4);
+printf("Mark 5:%d\n",M5);
 printf("Total:%d\n",Total);
 printf("Average:%.2f\n",Average);
 if(M1<35||M2<35||M3<35||M4<35||M5<35)
